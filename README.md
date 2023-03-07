@@ -5,7 +5,7 @@ _Here is a copy of the link to the Shiny.io_
  https://tiffton.shinyapps.io/ps6HW/
 
 
-##User Documentation:
+#User Documentation:
 
 
 _The Dataset_
@@ -21,16 +21,27 @@ days in which they recorded, however it was too large to work with, so the data 
 _shiny website_
 
  In the website, there are three tabs.
- tab 1. **The introduction**; introducing the data and where it is from. It also contains a sample of the dateset.
+ 
+ 
+ 
+ 
+* **The introduction**; introducing the data and where it is from. It also contains a sample of the dateset.
               it is very long due to the numbe of variables so you need to scroll very far.
              
- tab 2. **The Plot**; this tab is displaying a bar graph, utilizing radio buttons to 
+             
+             
+             
+             
+* **The Plot**; this tab is displaying a bar graph, utilizing radio buttons to 
               select the color the user would want the bar graph to be in. Also check boxes
               with all 50 States so that they can select which they would like to see. The bar graph shows 
               how many individuals per state have competed the original series of covid-19 vaccines. 
               Lastly, at the bottom of the graph, you can see the text summary that changes with what 
               States are selected in sidebar.
- tab 3. **The Table**; within this tab there is a data table displaying the age groups of the
+            
+              
+              
+* **The Table**; within this tab there is a data table displaying the age groups of the
               individuals who have completed the original series of covid-19 vaccinations.
               Users are able to adjust using side bar radio buttons to select which age group 
               specifically they want to look at. The table is organized by State, going in alphabetical 
